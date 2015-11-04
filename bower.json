@@ -1,16 +1,16 @@
 {
-  "name": "nodejs_bower",
-  "description": "bower study",
+  "name": "nodejs-bower",
+  "homepage": "https://github.com/linfengzhang/nodejs-bower.git",
+  "description": "linfeng",
   "main": "",
   "moduleType": [],
   "keywords": [
-    "123456"
+    "1211"
   ],
   "authors": [
-    "linfengzhang"
+    "111"
   ],
   "license": "0.0.0",
-  "homepage": "https://github.com/linfengzhang/nodejs-bower.git",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -21,5 +21,6 @@
   "dependencies": {
     "d3": "~3.5.6",
     "bootstrap": "~3.3.5"
-  }
+  },
+  "private": true
 }
